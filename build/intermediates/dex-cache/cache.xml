@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/iyadjamal/Desktop/iyad/IyadsMemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9c7fe25346042d4e2f68516db1b3b4dfd721eb9d">
+        <dex dex="/home/iyadjamal/Desktop/iyad/IyadsMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9224f12cd7183f66dd745ee95133b4eff3789d1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/iyadjamal/Desktop/iyad/IyadsMemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/iyadjamal/Desktop/iyad/IyadsMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c31cbcc823c6394c6e127fd72d7ca49fe05a62b5/classes.dex" />
+    </item>
+
+</items>
